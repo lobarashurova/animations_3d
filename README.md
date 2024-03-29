@@ -6,11 +6,17 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This is a flutter project that so many 3d projects were used. 
+You can see my all projects from that video
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/lobarashurova/animations_3d/assets/106048869/41ea6c18-b716-4443-b894-007458dc5b06
+
+
+
+https://github.com/lobarashurova/animations_3d/assets/106048869/381e4197-4eba-40a8-bfe0-abdb32268bc2
+
+
+
+
